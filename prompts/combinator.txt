@@ -1,0 +1,9 @@
+Combina la información de los textos de tal manera que se pierda la menor información posible y sea lo más completo y coherente posible. Hazlo sin sesgos:
+
+Texto 1:
+
+<<TEXT1>>
+
+Texto 2:
+
+<<TEXT2>>

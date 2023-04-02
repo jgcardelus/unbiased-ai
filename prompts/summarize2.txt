@@ -1,0 +1,3 @@
+Escribe un resumen conciso del siguiente texto: 
+
+<<TEXT>>

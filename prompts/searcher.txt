@@ -1,0 +1,5 @@
+Usando únicamente la información del contexto, responde honestamente y detalladamente a la pregunta. Si la pregunta no se puede responder con la información del contexto, no respondas nada, deja la respuesta en blanco.
+
+Contexto: <<CONTEXT>>
+
+Pregunta: <<QUERY>>
